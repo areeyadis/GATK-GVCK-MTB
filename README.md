@@ -1,4 +1,4 @@
-# GATK_GVCK_MTB
+# GATK-GVCK-MTB
 
 Purpose:
 Workflow for calling variants from whole genome sequencing data of Mycobacterium tuberculosis.
